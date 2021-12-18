@@ -1,0 +1,35 @@
+<html>
+    <title>вкусная шаверма</title>
+        <body style="background:#FFFACD">
+            <header style="background:#D2691E">
+                <h1 style="text-align:center;color:#FFD700;font-family:sans-serif">Шаверма вкусная отвечаю</h1>
+                <img src="https://logobaker.ru/media/uploads/userapi/logos/12114/400_300_4229-shaurma-bum.jpg" width="120px" height="100px"/>
+                <a href="#sale" style="color:#8A2BE2;font-size:50px;font-family:sans-serif">цена</a>
+            </header>
+            <main>
+                <h1 style="text-align:center;font-family:sans-serif">Делаем вкусную шаверму</h1>
+                <h2 style="text-align:center;font-family:sans-serif">P.S. шаверма не факт что из животных (может из домашних)</h2>
+                <p style="text-align:center;font-size:35px;color:#8B0000;font-family:sans-serif"> У нас самая лучшая шарума на районе, да что там на районе, в городе да что там в городе, во всем мире!!!!!!</p>
+                <img src="https://cdn.pixabay.com/photo/2021/01/06/10/11/shawarma-5893935__340.jpg" width="250px" height="250px"/>
+                <img src="https://cdn.pixabay.com/photo/2021/03/20/14/31/shawarma-6109976__340.jpg" width="250px" height="250px"/>
+                <img src="https://cdn.pixabay.com/photo/2021/03/02/17/34/skewer-6063312__340.jpg" width="250px" height="250px"/>
+                <img src="https://cdn.pixabay.com/photo/2021/03/18/23/52/food-6106217__340.jpg" width="250px" height="250px"/> 
+                <img src="https://cdn.pixabay.com/photo/2017/03/10/13/49/fast-food-2132863__480.jpg" width="250px" height="250px"/>
+                <img src="https://cdn.pixabay.com/photo/2019/03/02/14/26/shawarma-4029889__340.jpg" width="250px" height="250px"/>
+                <table id="sale" style="border-collapse:collapse;border:4px solid lightblue;">
+                    <tr style="color:green;border:4px solid lightblue">
+                        <td style="font-size:50px;border:4px solid lightblue;font-family:sans-serif">цена</td>
+                        <td style="font-size:50px;border:4px solid lightblue;font-family:sans-serif">вид</td>
+                    </tr>
+                    <tr style="color:green"> 
+                        <td style="font-size:50px;border:4px solid lightblue;font-family:sans-serif">120руб</td>
+                        <td style="font-size:50px;border:4px solid lightblue;font-family:sans-serif">кошка</td>
+                    </tr>
+                </table>
+            </main>
+            <footer style="background:#B0C4DE">
+                <p style="color:#800000;font-size:32px;font-family:sans-serif">Контакты:+7 988 694 37-58</p>
+                <p style="color:#800000;font-size:32px;font-family:sans-serif">Адрес:улица Пушкина, дом Колотушкина 25</p>
+            </footer>
+        </body>
+</html>
